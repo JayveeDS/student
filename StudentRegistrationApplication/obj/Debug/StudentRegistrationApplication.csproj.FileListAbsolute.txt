@@ -1,0 +1,20 @@
+C:\Users\hp\Documents\Integrative Programming\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Integrative Programming\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.FrmStudentRegistration.resources
+C:\Users\hp\Documents\Integrative Programming\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.Properties.Resources.resources
+C:\Users\hp\Documents\Integrative Programming\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Integrative Programming\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Integrative Programming\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\StudentRegistrationApplication.exe.config
+C:\Users\hp\Documents\Integrative Programming\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\StudentRegistrationApplication.exe
+C:\Users\hp\Documents\Integrative Programming\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\StudentRegistrationApplication.pdb
+C:\Users\hp\Documents\Integrative Programming\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.exe
+C:\Users\hp\Documents\Integrative Programming\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.pdb
+C:\Users\G&E Client 102\OneDrive - STI Education Services Group, Inc\Desktop\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\StudentRegistrationApplication.exe.config
+C:\Users\G&E Client 102\OneDrive - STI Education Services Group, Inc\Desktop\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\StudentRegistrationApplication.exe
+C:\Users\G&E Client 102\OneDrive - STI Education Services Group, Inc\Desktop\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\StudentRegistrationApplication.pdb
+C:\Users\G&E Client 102\OneDrive - STI Education Services Group, Inc\Desktop\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.csproj.AssemblyReference.cache
+C:\Users\G&E Client 102\OneDrive - STI Education Services Group, Inc\Desktop\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.FrmStudentRegistration.resources
+C:\Users\G&E Client 102\OneDrive - STI Education Services Group, Inc\Desktop\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.Properties.Resources.resources
+C:\Users\G&E Client 102\OneDrive - STI Education Services Group, Inc\Desktop\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.csproj.GenerateResource.cache
+C:\Users\G&E Client 102\OneDrive - STI Education Services Group, Inc\Desktop\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.csproj.CoreCompileInputs.cache
+C:\Users\G&E Client 102\OneDrive - STI Education Services Group, Inc\Desktop\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.exe
+C:\Users\G&E Client 102\OneDrive - STI Education Services Group, Inc\Desktop\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.pdb
